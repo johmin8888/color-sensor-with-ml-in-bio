@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following references."
+
+# Citation for this paper
+authors:
+  - family-names: "Joh"
+    given-names: "Min"
+  - family-names: "Kumaran"
+    given-names: "Surjith"
+  - family-names: "Shin"
+    given-names: "Younseo"
+  - family-names: "Cha"
+    given-names: "Hyunji"
+  - family-names: "Oh"
+    given-names: "Euna"
+  - family-names: "Lee"
+    given-names: "Kyu Hyoung"
+  - family-names: "Choi"
+    given-names: "Hyo-Jick"
+
+title: "An Ensemble Model of Machine Learning Regression Techniques and Color Spaces Integrated with a Color Sensor"
+year: 2025
+doi: "10.1039/D4RA07510B"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Joh"
+      given-names: "Min"
+    - family-names: "Kumaran"
+      given-names: "Surjith"
+    - family-names: "Shin"
+      given-names: "Younseo"
+    - family-names: "Cha"
+      given-names: "Hyunji"
+    - family-names: "Oh"
+      given-names: "Euna"
+    - family-names: "Lee"
+      given-names: "Kyu Hyoung"
+    - family-names: "Choi"
+      given-names: "Hyo-Jick"
+  title: "An Ensemble Model of Machine Learning Regression Techniques and Color Spaces Integrated with a Color Sensor"
+  journal: "RSC Advances"
+  year: 2025
+  volume: 15
+  issue: 3
+  pages: "1754--1765"
+  doi: "10.1039/D4RA07510B"
+
+# Additional References (Datasets, Other Papers)
+references:
+  - type: dataset
+    authors:
+      - family-names: "Jan"
+        given-names: "Rob"
+    title: "pH-recognition"
+    year: 2023
+    url: "https://www.kaggle.com/datasets/robjan/ph-recognition"
+    note: "Accessed: 2025-03-03"
